@@ -1,0 +1,24 @@
+[33ma2da457bb42f0bb5372840f95495f4329e8ef76d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpremium[m[33m, [m[1;31morigin/premium[m[33m)[m Merge remote-tracking branch 'origin/premium' into premium
+[33mbe1e80b031d078d72b4e63f69d718c7fbdfef544[m 로컬 변경 사항 커밋
+[33m14ecd9dd50654fb9cce7c84d6d709e46317834f6[m Add say hello function!
+[33m451fa6b5dbf4118b81cbc2e69d5102878ac46453[m Update calulator.py
+[33mdf2bd73ad24f7f5afefdf4801b7c8fc6c41006ae[m Add say hello function
+[33mb3475f30dccc596194a4152c58dbfe944c7e050a[m Merge branch 'premium' of https://github.com/littby/Math_box into premium
+[33mdd5435aa69bad1acc1197a5418118a4f19b6fcac[m Update License for educational use
+[33m8fec2a02f9695d0a07a4ea764057048be3a4eed1[m Update License for enterprise use
+[33mb2606bab8b7bff320f0c4ef403588d8006ef498c[m Merge branch 'main' into premium
+[33mac32eac6bfcabd7d5422a5f8f71ab35c01b83bd1[m Change divide function as free
+[33m403f8926096669d197c79f2ff99ce1e774702ecd[m Change divide function as premium
+[33m5b4ebcdf68b452067bfc832e888b6280a2a82d0d[m Merge branch 'main' into premium
+[33m1bbb1955f749b6d8c1f522561a87fe2cbb49140a[m Add divide function
+[33ma05eb1f233b0ec6d07f90967699f0448bca17a6e[m Change License from free to premium
+[33m5f30a20b373978be8250e2b7c9cd10c7df03070c[m Add multiply function
+[33m4e341bd98ab870ccab8dba260ed7d49b236742ae[m Update README.md
+[33m0e6915e5837c8397e504636ab8edecaf76f148eb[m Update README.md
+[33mb08df4e707eeb261164a65e347113e3a0fb8a89f[m Update README.md
+[33mf894dbab3d3d032eb46dc3048d924bc8cac858bb[m Make README.md look nice
+[33m1177b2b6be96fade54bf832c8f60437a8e339500[m Add the info of caluator.py in README.md
+[33m4b5f84ed89e891b18c0ea509f3114b8ebda5bbb8[m Create README.md
+[33m72957d1d0dad034a147eb426de572fdcde3f0515[m Create README.md
+[33m6ae32e691aac0632df15469a8a9572eade67c056[m Add title comment and Create meeting-log
+[33m9520d1b541432483dc566c1e7495ac0d9fda6b47[m Create calulator.py and License
